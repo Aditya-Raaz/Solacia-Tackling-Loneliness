@@ -32,9 +32,9 @@ solacia-project/
 3. Explore different sections like Features, Solutions, and Stats.
 4. Enjoy smooth scroll, animations, and responsive UI.
 
-## 🔗 Live Demo (if hosted)
+## 🔗 Live Demo
 
-[🌍 View on GitHub Pages](https://github.com/Aditya-Raaz/Solacia-Tackling-Loneliness)
+https://solacia-tackling-loneliness.vercel.app/
 
 
 ## 👨‍💻 Developed By
